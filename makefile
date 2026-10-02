@@ -19,4 +19,4 @@ stud_sort.o:stud_sort.c
 	cc -c stud_sort.c
 clear:
 	@echo "Cleaning up----"
-	@rm -vr *.0
+	@rm -vr *.o
